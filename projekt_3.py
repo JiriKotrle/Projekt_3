@@ -3,7 +3,6 @@
 # email: jirikotrle@gmail.com
 # discord: jirikotrle
 
-
 import os
 import csv
 import sys
