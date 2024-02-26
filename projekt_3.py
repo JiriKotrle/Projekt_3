@@ -141,7 +141,6 @@ def copy_data_to_csv(csv_file, link):
         writer.writerow(data)
         
 
-
 if __name__ == "__main__":
     # Kontrola zda jsou poskytnuty argumenty
     if len(sys.argv) != 3:
